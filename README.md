@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # L17 – RPS Tournament
 
 **Student:** TARUN JAYVIRDAN GADHVI | **Roll:** B08 | **Division:** H | **Enrollment:** 24004501210085
@@ -38,3 +39,5 @@ $1, $RANDOM, case, while, awk
 
 ## What I learned
 Through this project, I learned how to create a Rock-Paper-Scissors tournament using Bash scripting in Linux. I understood how to use command-line arguments, $RANDOM, case statements, and loops to manage game rounds and determine winners. I also learned how to store match history in files and use awk to calculate statistics such as win percentage and winning streaks. Additionally, I gained practical knowledge of automating weekly reports using crontab jobs and maintaining logs and backups.
+=======
+
