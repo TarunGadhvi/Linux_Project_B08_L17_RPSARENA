@@ -1,5 +1,11 @@
-<<<<<<< HEAD
 # L17 – RPS Tournament
+## Project Guide
+This project was completed under the guidance of
+**Dr. Anjum Y. Mansuri**, Assistant Professor, Computer Applications,
+LJ Institute of Computer Applications, LJ University, Ahmedabad.
+GitHub: [@anjum-mansuri](https://github.com/anjum-mansuri)
+
+OS Linux Lab 260120510 | Project ID: L17
 
 **Student:** TARUN JAYVIRDAN GADHVI | **Roll:** B08 | **Division:** H | **Enrollment:** 24004501210085
 
